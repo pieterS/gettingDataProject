@@ -11,6 +11,19 @@ The original unit for the acceleration is \[g\]
 
 The origina unit for the angular velocty is \[r/s\]
 
+## variable name legend
+Most variable names are constructed of the following components:
+* t: time domain
+* f: frequency domain
+* Body: body component
+* Gravity: gravity component
+* Acc: acceleration
+* Gyro: the angular velocity
+* Jerk: the Jerk measurements
+* Mag: the magnitud
+* std: standard deviation
+* mean: the mean
+* X,Y,Z the euclidian directional component
 
 ## variables
 
